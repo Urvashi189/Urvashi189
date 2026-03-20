@@ -1,6 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
-Computer Science Engineer
+
 
 
 # 💻 Tech Stack:
